@@ -1,0 +1,11 @@
+{
+    "_type": "request",
+    "method": "POST",
+    "body": {
+        "mimeType": "No Body"
+    },
+    "url": "http://127.0.0.1:8000/brand-manuals/04a68081-6047-4876-864b-70c851309f2e/generate-embeddings",
+    "sortOrder": 5,
+    "parameters": [],
+    "pathParameters": []
+}

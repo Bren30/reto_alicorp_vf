@@ -1,0 +1,11 @@
+{
+    "_type": "request",
+    "method": "GET",
+    "body": {
+        "mimeType": "No Body"
+    },
+    "url": "http://127.0.0.1:8000/brand-manuals/210871a6-7afb-410e-adbb-c521ba5f96cb",
+    "sortOrder": 9,
+    "parameters": [],
+    "pathParameters": []
+}

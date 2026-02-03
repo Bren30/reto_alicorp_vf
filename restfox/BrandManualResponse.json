@@ -1,0 +1,18 @@
+{
+    "_type": "request",
+    "method": "POST",
+    "body": {
+        "mimeType": "application/json",
+        "text": "{\n                \"name\": \"Quinua Crunch\",\n                \"description\": \"Snack saludable de quinua\",\n                \"product_type\": \"snack\",\n                \"tone\": \"divertido pero profesional\",\n                \"target_audience\": \"Gen Z\"\n            }"
+    },
+    "url": "http://127.0.0.1:8000/brand-manuals",
+    "sortOrder": 11,
+    "parameters": [],
+    "pathParameters": [],
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "application/json"
+        }
+    ]
+}

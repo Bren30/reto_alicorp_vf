@@ -1,0 +1,18 @@
+{
+    "_type": "request",
+    "method": "POST",
+    "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"name\": \"Quinua Crunch\",\n  \"description\": \"Snack saludable hecho con quinua orgánica peruana, alto en proteínas y fibra. Perfecto para llevar a cualquier lugar.\",\n  \"product_type\": \"snack saludable\",\n  \"tone\": \"divertido, cercano pero profesional, inspirador\",\n  \"target_audience\": \"Gen Z y Millennials health-conscious de 18-35 años\"\n}"
+    },
+    "url": "http://127.0.0.1:8000/brand-manuals/generate",
+    "sortOrder": 6,
+    "parameters": [],
+    "pathParameters": [],
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "application/json"
+        }
+    ]
+}

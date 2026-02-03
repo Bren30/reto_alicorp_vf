@@ -1,0 +1,18 @@
+{
+    "_type": "request",
+    "method": "POST",
+    "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"manual_id\": \"04a68081-6047-4876-864b-70c851309f2e\",\n  \"content_type\": \"image_prompt\"\n}"
+    },
+    "url": "http://127.0.0.1:8000/content/generate",
+    "sortOrder": 0,
+    "parameters": [],
+    "pathParameters": [],
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "application/json"
+        }
+    ]
+}
